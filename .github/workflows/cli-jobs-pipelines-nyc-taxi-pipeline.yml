@@ -5,7 +5,6 @@
 
 name: cli-jobs-pipelines-nyc-taxi-pipeline
 on:
-  push:
   pull_request:
     branches:
       - main
